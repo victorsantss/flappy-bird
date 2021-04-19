@@ -17,4 +17,8 @@ $ git clone <https://github.com/victorsantss/flappy-bird.git>
 
 ### 🖥️ Iniciando a aplicação
 
-Abra o arquivo flappy.js
+-Abra o arquivo flappy.js
+
+-Utilize qualquer tecla do teclado para voar
+
+-Recarregue a página para recomeçar
