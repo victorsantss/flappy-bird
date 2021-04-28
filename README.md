@@ -12,7 +12,7 @@
 
 ### 🔽 Clonando o repositório
 ```bash
-$ git clone <https://github.com/victorsantss/flappy-bird.git>
+$ git clone https://github.com/victorsantss/flappy-bird.git
 ```
 
 ### 🖥️ Iniciando a aplicação
