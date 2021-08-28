@@ -22,3 +22,14 @@ $ git clone https://github.com/victorsantss/flappy-bird.git
 -Utilize qualquer tecla do teclado para voar
 
 -Recarregue a página para recomeçar
+
+### 🔗 Link do projeto online
+
+[JS Flappy Bird](https://victorsantss.github.io/flappy-bird/)
+
+<hr />
+
+<p align="center">This project was made with 💙 by Victor Santos</p>
+
+
+
